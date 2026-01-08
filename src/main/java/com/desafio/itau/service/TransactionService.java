@@ -21,4 +21,8 @@ public class TransactionService {
         return transactionRepository.findAll();
     }
 
+    public void deleteAll() {
+        transactionRepository.deleteAll();
+    }
+
 }
