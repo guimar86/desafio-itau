@@ -24,3 +24,6 @@ These steps assume you have Java 11 and Maven installed.
 
 ## Parametrization
 The number of minutes can be changed in the application.properties file.
+
+## Swagger
+- `http://localhost:8080/swagger-ui.html`
